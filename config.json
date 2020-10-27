@@ -3,10 +3,9 @@
   "site_title": "Grupo Cirandar",
   "site_description": "Um grupo para compartilhar a cultura brasileira com nossas crianças na Holanda",
   "site_keywords": [
-    "cultura brasileira",
-    "grupo cirandar"
+    "cultura brasileira, crianças, holanda"
   ],
   "posts_per_page": 5,
   "twitter_account": "@frontendwizard",
-  "github_account": "frontendwizard"
+  "github_account": "frontendwizard/cirandar.nl"
 }
